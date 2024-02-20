@@ -27,6 +27,7 @@
   white-space: nowrap;
   will-change: box-shadow,transform;
   font-size: 18px;
+  font-family: "MS Sans Serif";
 }
 
 .button-30:focus {

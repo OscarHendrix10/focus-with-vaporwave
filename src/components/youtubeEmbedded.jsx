@@ -4,11 +4,13 @@ import '../assets/styles/youtubeEmbeded.css'
 
 
 const playlistsList = [
-    'Sx4xVyXHl60',
-    'eWVv_rM8pEk',
-    'UJf33lZhCZc',
-    'MHb1m9pInEg',
-    'HTzRSQt7pdY'
+    'bJGvLLEZQAA',
+    'JELt1jxJsHQ',
+    'CzO2yqmG9U',
+    'QPAHVS-e1NM',
+    'k_Dwg_x48Rw',
+    'PJ0vYbUkSFU',
+    'TJK_12I9HJ4'
 ]
 
 const randomPlaylist = () => {

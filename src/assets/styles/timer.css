@@ -4,9 +4,10 @@
 }
 
 .timer-counter {
-    color: beige;
+    color: rgb(255, 255, 255);
     transition: 0.5s ease-in-out;
-    text-shadow: 0 0 1em #d6bd69, 0 0 0.2em #d6bd69;
+    font-family: "MS Sans Serif";
+    text-shadow: 0 0 1em #000000, 0 0 0.2em #000000;
 }
 
 .start-timer {
