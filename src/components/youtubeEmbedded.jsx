@@ -10,7 +10,8 @@ const playlistsList = [
     'QPAHVS-e1NM',
     'k_Dwg_x48Rw',
     'PJ0vYbUkSFU',
-    'TJK_12I9HJ4'
+    'GYSlY_Jt38w',
+    '-CZHL8w52Co'
 ]
 
 const randomPlaylist = () => {

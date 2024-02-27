@@ -6,5 +6,30 @@
     {
       "name": "aesthetic1.jpg",
       "path": "/vaporwave/aesthetic1.jpg"
+    },
+    {
+      "name": "aesthetic2.jpg",
+      "path": "/vaporwave/aesthetic2.jpg"
+    },
+    {
+      "name": "aesthetic3.jpg",
+      "path": "/vaporwave/aesthetic3.jpg"
+    },
+    {
+      "name": "aesthetic4.png",
+      "path": "/vaporwave/aesthetic4.png"
+    },
+    {
+      "name": "play1.jpg",
+      "path": "/vaporwave/play1.jpg"
+    },
+    {
+      "name": "play2.jpg",
+      "path": "/vaporwave/play2.jpg"
+    },
+    {
+      "name": "windows1.jpg",
+      "path": "/vaporwave/windows1.jpg"
     }
+
   ]
