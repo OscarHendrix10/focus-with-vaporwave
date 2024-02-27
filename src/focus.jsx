@@ -14,13 +14,7 @@ const Focus = () => {
         <div className='slider-container' style={{display: isActive ? 'none' : 'block'}}>
           <StepSlider />
         </div>
-        <div className='control-container w-full flex flex-col place-content-center place-items-center'
-              style={{marginTop: isActive ? '0em' : '2em'}}
-        >
-          <ControlTimer />
-        </div>
     </div>
   )
 }
-
 export default Focus

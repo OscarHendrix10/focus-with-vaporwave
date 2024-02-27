@@ -2,7 +2,8 @@
     display: none;
 }
 .icon {
-    width: 7vh;
+    width: 5vh;
     margin-right: 2vw;
     filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+    background:#C0C0C0;
 }

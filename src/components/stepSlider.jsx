@@ -5,17 +5,17 @@ import { setSelectedMinutes } from '../redux/slices/timerSlice';
 
 
 const PrettoSlider = styled(Slider)({
-    color: '#F5F5DC',
+    color: '#808080',
     height: 10,
     '& .MuiSlider-track': {
       border: 'none',
-      backgroundColor: '#ffffd1'
+      backgroundColor: '#000080'
     },
     '& .MuiSlider-thumb': {
       height: 24,
       width: 24,
-      backgroundColor: '#F5F5DC',
-      border: '2px solid currentColor',
+      backgroundColor: '#000080',
+      border: '2px solid black',
       '&:focus, &:hover, &.Mui-active, &.Mui-focusVisible': {
         boxShadow: 'inherit',
       },

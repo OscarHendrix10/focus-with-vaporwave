@@ -1,33 +1,17 @@
 /* CSS */
 .button-30 {
-  align-items: center;
-  appearance: none;
-  background-color: #fcfcfd67;
-  border-radius: 4px;
-  border-width: 0;
-  box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px;
-  box-sizing: border-box;
-  color: #F5F5DC;
-  cursor: pointer;
-  display: inline-flex;
-  letter-spacing: 10px;
-  height: 48px;
-  justify-content: center;
-  list-style: none;
-  overflow: hidden;
-  padding-left: 10px;
-  padding-right: 2px;
-  position: relative;
-  text-align: left;
-  text-decoration: none;
-  transition: box-shadow .15s,transform .15s, background 0.2s;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
-  will-change: box-shadow,transform;
-  font-size: 18px;
-  font-family: "MS Sans Serif";
+  font-family:"MS Sans Serif";
+  font-size:15px;
+  outline:1px solid #000000;
+  background:#C0C0C0;
+  border-width:1px;
+  border-style:solid;
+  border-color:#FFFFFF #808080 #808080 #FFFFFF;
+  padding: 0px 0px 20px 0;
+  margin:20px auto 3px;
+  display:block;
+  position:relative;
+  bottom:0px;
 }
 
 .button-30:focus {
