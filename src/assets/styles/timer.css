@@ -56,13 +56,13 @@
   }
 
 div.title{
-    height:18px;
+    height:20px;
     width:100%;
     background:#000080;
     color:#FFF;
   }
 
-img.title{
+.imagesvg{
     float:left;
   }
 
